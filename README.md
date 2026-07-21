@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=220&section=header&text=Ajinkya%20Barapatre&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Turning%20Raw%20Data%20Into%20Real%20Decisions&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://images.unsplash.com/photo-1584983333849-26ca57622ac2?fm=jpg&q=80&w=1600&auto=format&fit=crop" width="100%" style="border-radius:8px;"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=EC4899&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ajinkya+%F0%9F%91%8B;IT+Student+%7C+Aspiring+Data+Analyst+%F0%9F%93%8A;SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI+%E2%80%A2+Excel;Turning+Numbers+Into+Narratives+%F0%9F%93%88" alt="Typing SVG" />
