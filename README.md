@@ -37,16 +37,16 @@ Hi, I'm Om! I'm a Computer Engineering student who fell into full-stack developm
 
 ### 📊 GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=omsatote&show_icons=true&theme=radical" alt="Om's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omsatote&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ajinkyabarapatre&show_icons=true&theme=radical" alt="Ajinkya's GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyabarapatre&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 
 ### 🔥 Streak Stats:
 
-<img src="https://streak-stats.demolab.com?user=omsatote&theme=radical" alt="Streak Stats" width="60%" />
+<img src="https://streak-stats.demolab.com?user=ajinkyabarapatre&theme=radical" alt="Streak Stats" width="60%" />
 
 ### 🐍 Contribution Graph:
 
-<img src="https://raw.githubusercontent.com/omsatote/omsatote/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ajinkyabarapatre/ajinkyabarapatre/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ### 📝 Random Dev Quote
 
