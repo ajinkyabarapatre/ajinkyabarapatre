@@ -10,6 +10,10 @@
 
 </div>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216656952-f8beff5b-935b-4157-a199-5c504b36a810.gif" width="500"/>
+</div>
+
 <img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 ## 💫 About Me:
