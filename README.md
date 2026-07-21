@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1584983333849-26ca57622ac2?fm=jpg&q=80&w=1600&auto=format&fit=crop" width="100%" style="border-radius:8px;"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=220&section=header&text=Ajinkya%20Barapatre&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Turning%20Raw%20Data%20Into%20Real%20Decisions&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=EC4899&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ajinkya+%F0%9F%91%8B;IT+Student+%7C+Aspiring+Data+Analyst+%F0%9F%93%8A;SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI+%E2%80%A2+Excel;Turning+Numbers+Into+Narratives+%F0%9F%93%88" alt="Typing SVG" />
@@ -52,7 +52,7 @@
 </tr>
 </table>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=40&section=header&animation=fadeIn" width="100%"/></div>
+---
 
 <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
@@ -69,7 +69,7 @@ Hi, I'm **Ajinkya**! I'm an Information Technology student who stepped into data
 
 <br clear="right"/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=40&section=header&animation=fadeIn" width="100%"/></div>
+---
 
 ## 💻 Tech Stack
 
@@ -94,7 +94,7 @@ Hi, I'm **Ajinkya**! I'm an Information Technology student who stepped into data
 
 </div>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=40&section=header&animation=fadeIn" width="100%"/></div>
+---
 
 ## 🌍 Learning Platforms & Communities
 
@@ -113,7 +113,7 @@ Hi, I'm **Ajinkya**! I'm an Information Technology student who stepped into data
 
 > ✏️ Swap the `#` links above for your real profile URLs on each platform.
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=40&section=header&animation=fadeIn" width="100%"/></div>
+---
 
 ## 📊 GitHub Stats & Graphs
 
@@ -132,7 +132,7 @@ Hi, I'm **Ajinkya**! I'm an Information Technology student who stepped into data
 
 </div>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=40&section=header&animation=fadeIn" width="100%"/></div>
+---
 
 <div align="center">
 
