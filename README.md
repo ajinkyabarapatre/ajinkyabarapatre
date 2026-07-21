@@ -89,8 +89,6 @@ Hi, I'm **Ajinkya**! I'm an Information Technology student who stepped into data
 <img src="https://raw.githubusercontent.com/ajinkyabarapatre/ajinkyabarapatre/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 </div>
 
-> Note: the snake graphic needs a one-time GitHub Action set up in your `ajinkyabarapatre/ajinkyabarapatre` repo to generate — say the word and I'll give you that workflow file.
-
 ---
 
 <div align="center">
@@ -101,7 +99,7 @@ Hi, I'm **Ajinkya**! I'm an Information Technology student who stepped into data
 
 <br/>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ajinkyabarapatre&theme=radical&no-frame=true&row=1&column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=ajinkyabarapatre&theme=radical&no-frame=true&no-bg=false&row=1&column=6&margin-w=8)
 
 <br/>
 
