@@ -138,7 +138,7 @@ Hi, I'm **Ajinkya**! I'm an Information Technology student who stepped into data
 
 ## 🏆 Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ajinkyabarapatre&theme=radical&no-frame=true&no-bg=false&row=1&column=6&margin-w=8)
+![Trophies](https://github-profile-trophy.vercel.app/?username=ajinkyabarapatre&theme=algolia&no-frame=true&row=1&column=6&margin-w=10&margin-h=10)
 
 ## 🐍 Watch the Snake Eat My Contributions
 
