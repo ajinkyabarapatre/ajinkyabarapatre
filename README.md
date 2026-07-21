@@ -52,7 +52,7 @@
 </tr>
 </table>
 
----
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=40&section=header&animation=fadeIn" width="100%"/></div>
 
 <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
@@ -69,7 +69,7 @@ Hi, I'm **Ajinkya**! I'm an Information Technology student who stepped into data
 
 <br clear="right"/>
 
----
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=40&section=header&animation=fadeIn" width="100%"/></div>
 
 ## 💻 Tech Stack
 
@@ -94,7 +94,7 @@ Hi, I'm **Ajinkya**! I'm an Information Technology student who stepped into data
 
 </div>
 
----
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=40&section=header&animation=fadeIn" width="100%"/></div>
 
 ## 🌍 Learning Platforms & Communities
 
@@ -113,7 +113,7 @@ Hi, I'm **Ajinkya**! I'm an Information Technology student who stepped into data
 
 > ✏️ Swap the `#` links above for your real profile URLs on each platform.
 
----
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=40&section=header&animation=fadeIn" width="100%"/></div>
 
 ## 📊 GitHub Stats & Graphs
 
@@ -132,7 +132,7 @@ Hi, I'm **Ajinkya**! I'm an Information Technology student who stepped into data
 
 </div>
 
----
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=40&section=header&animation=fadeIn" width="100%"/></div>
 
 <div align="center">
 
